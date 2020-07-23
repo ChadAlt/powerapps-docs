@@ -48,8 +48,6 @@ You should use the Power Apps portal to Create and edit fields for Common Data S
 
 - Create a Customer Lookup field. 
    - More information: [Different types of lookups](types-of-fields.md#different-types-of-lookups)
-- Create a field in a solution other than the Common Data Service Default solution. 
-   - More information: [Solutions overview](solutions-overview.md)
 - Define status reason transitions. 
    - More information: [Define status reason transitions for the Case or custom entities](define-status-reason-transitions.md)
 - Edit multiple fields at once.
@@ -66,8 +64,6 @@ You should use the Power Apps portal to Create and edit fields for Common Data S
 - Set managed properties for a field. 
    - More information: [Set managed properties for fields](set-managed-properties-for-field.md)
 
-> [!NOTE]
-> You can create a Lookup field in the Power Apps portal or in solution explorer by creating a One-to-many relationship on the entity. But only solution explorer offers the option to create this relationship while creating a field.
 
 ## Community tools
 
